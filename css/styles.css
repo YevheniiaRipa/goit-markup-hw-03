@@ -1,6 +1,7 @@
 body {
   color: #434455;
   font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   background-color: #fff;
 }
@@ -263,6 +264,5 @@ img {
 
 .footer-text {
   color: #f4f4fd;
-  line-height: 1.5;
   max-width: 264px;
 }
